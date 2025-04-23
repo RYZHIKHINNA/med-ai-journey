@@ -11,7 +11,7 @@ _Ссылка на видео:_ <ttps://www.youtube.com/watch?v=wxXe1g2YjHo>
 ## Термины
 | Термин | Пояснение |
 | ------ | ---------- |
-| Resource | ... |
+| Resource | Это коробка данных с ярлыком resourceType. |
 | Bundle   | ... |
 | Patient  | ... |
 
